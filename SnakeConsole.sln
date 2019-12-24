@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SnakeConsole", "SnakeConsole\SnakeConsole.csproj", "{4C0CECB5-8D1E-4784-B9B4-56EA060CB23F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C0CECB5-8D1E-4784-B9B4-56EA060CB23F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C0CECB5-8D1E-4784-B9B4-56EA060CB23F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C0CECB5-8D1E-4784-B9B4-56EA060CB23F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C0CECB5-8D1E-4784-B9B4-56EA060CB23F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

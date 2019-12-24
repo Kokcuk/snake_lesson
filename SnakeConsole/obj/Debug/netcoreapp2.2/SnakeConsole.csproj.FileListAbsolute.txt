@@ -1,0 +1,11 @@
+/Users/igor/Documents/dev/SnakeConsole/SnakeConsole/bin/Debug/netcoreapp2.2/SnakeConsole.deps.json
+/Users/igor/Documents/dev/SnakeConsole/SnakeConsole/bin/Debug/netcoreapp2.2/SnakeConsole.runtimeconfig.json
+/Users/igor/Documents/dev/SnakeConsole/SnakeConsole/bin/Debug/netcoreapp2.2/SnakeConsole.runtimeconfig.dev.json
+/Users/igor/Documents/dev/SnakeConsole/SnakeConsole/bin/Debug/netcoreapp2.2/SnakeConsole.dll
+/Users/igor/Documents/dev/SnakeConsole/SnakeConsole/bin/Debug/netcoreapp2.2/SnakeConsole.pdb
+/Users/igor/Documents/dev/SnakeConsole/SnakeConsole/obj/Debug/netcoreapp2.2/SnakeConsole.csprojAssemblyReference.cache
+/Users/igor/Documents/dev/SnakeConsole/SnakeConsole/obj/Debug/netcoreapp2.2/SnakeConsole.csproj.CoreCompileInputs.cache
+/Users/igor/Documents/dev/SnakeConsole/SnakeConsole/obj/Debug/netcoreapp2.2/SnakeConsole.AssemblyInfoInputs.cache
+/Users/igor/Documents/dev/SnakeConsole/SnakeConsole/obj/Debug/netcoreapp2.2/SnakeConsole.AssemblyInfo.cs
+/Users/igor/Documents/dev/SnakeConsole/SnakeConsole/obj/Debug/netcoreapp2.2/SnakeConsole.dll
+/Users/igor/Documents/dev/SnakeConsole/SnakeConsole/obj/Debug/netcoreapp2.2/SnakeConsole.pdb
